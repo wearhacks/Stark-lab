@@ -1,0 +1,6 @@
+{
+  "name": "stark-lab",
+  "root": "./",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
